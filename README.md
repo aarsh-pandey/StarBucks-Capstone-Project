@@ -84,7 +84,7 @@ The main findings of the code can be found at the post available [here](https://
 
 #### Results that look interesting to me are :
 
-* The most viewed offer is Bogo but the most completed offer is a Discount.
+* The most viewed offer is Bogo but the most completed offer is Discount.
 * No one has completed the Informational offer.
 * As time is passing, people are getting inactive towards offers.
 
